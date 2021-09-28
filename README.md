@@ -9,3 +9,5 @@ Rhythm Games Download
 [点击转到 Arcaea 页面](/down/Arcaea.md)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
+# 友情链接
+[MBRjun's Blog](https://blog.mbrjun.cn)  
