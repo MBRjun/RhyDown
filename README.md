@@ -10,6 +10,6 @@ Rhythm Games Download
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287) 
 # Malody  
-[点击转到 Arcaea 页面](/down/Malody.md)
+[点击转到 Malody 页面](/down/Malody.md)
 # 友情链接
 [MBRjun's Blog](https://blog.mbrjun.cn)  
