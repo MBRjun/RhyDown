@@ -11,5 +11,7 @@ Rhythm Games Download
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287) 
 # Malody  
 [点击转到 Malody 页面](/down/Malody.md)
+# BanG Dream! Girls Band Party!  
+正在准备安装包
 # 友情链接
 [MBRjun's Blog](https://blog.mbrjun.cn)  
