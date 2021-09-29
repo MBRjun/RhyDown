@@ -17,4 +17,4 @@ Rhythm Games Download
 # OSU!
 [点击转到 OSU! 页面](/down/osu.md)  
 # 友情链接
-[MBRjun's Blog](https://blog.mbrjun.cn)  
+[MBRjun's Blog](https://blog.mbrjun.cn)  [宵夜的造梦阁](https://itqcxy.cn)
