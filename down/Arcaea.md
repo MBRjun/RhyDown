@@ -3,16 +3,16 @@
 说明：**请选择需要的版本，Global版需要能使用Google服务，同一个版本可能会提供多个下载链接，选择速度快的。**  
 **Global的Offical版需要root或者自己合并才能安装，如无root可尝试修改合并版（非Offical都是）**  
 **建议使用 OneDrive 源**  
-**3.8.6：正在更新，请等待几分钟**
+**China 即为版本带C后缀的版本 Global 版本号不带后缀**
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
 |3.8.6|Global|Offical|.apks|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z64jVIQ)||572MiB|Sep 29,2021  
-|||||MBRjun OneDrive|未就绪||572MiB|Sep 29,2021 
+|||||MBRjun OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6.apks)||572MiB|Sep 29,2021 
 |||MBRjun|.apk|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z65F42Q)||593MiB|Sep 29,2021  
-|||||MBRjun OneDrive|未就绪||593MiB|Sep 29,2021 
+|||||MBRjun OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6_rebuild.apk)||593MiB|Sep 29,2021 
 ||China|Offical|.apk|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z62XgTQ)||596MiB|Sep 29,2021  
-|||||MBRjun OneDrive|未就绪||596MiB|Sep 29,2021 
+|||||MBRjun OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
 |3.8.4|Global|Offical|.apks|MBRjun NAS 1|[点击打开](http://router.mbrjun.com:30090/#s/7Zv5DtBQ)||570MiB|  
 |||||MBRjun OneDrive|[点击打开](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.4/Arcaea_3.8.4.apks)||570MiB| 
 |||MBRjun|.apk|MBRjun NAS 1|[点击打开](http://router.mbrjun.com:30090/#s/7Zv24siQ)||591MiB|  
