@@ -7,9 +7,9 @@
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
-|3.8.6|Global|Offical|.apks|MBRjun NAS 1|未就绪||572MiB|Sep 29,2021  
+|3.8.6|Global|Offical|.apks|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z64jVIQ)||572MiB|Sep 29,2021  
 |||||MBRjun OneDrive|未就绪||572MiB|Sep 29,2021 
-|||MBRjun|.apk|MBRjun NAS 1|未就绪||593MiB|Sep 29,2021  
+|||MBRjun|.apk|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z65F42Q)||593MiB|Sep 29,2021  
 |||||MBRjun OneDrive|未就绪||593MiB|Sep 29,2021 
 ||China|Offical|.apk|MBRjun NAS 1|[点击下载](http://router.mbrjun.com:30090/#s/7Z62XgTQ)||596MiB|Sep 29,2021  
 |||||MBRjun OneDrive|未就绪||596MiB|Sep 29,2021 
