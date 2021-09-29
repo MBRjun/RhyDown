@@ -5,6 +5,7 @@ Rhythm Games Download
 谢谢 Cloudflare 让本网站可以在全球正常访问  
 制作：@MBRjun [Bilibili](https://space.bilibili.com/411515003) [Telegram](https://t.me/MBRjun)  
 我们正在为为本站创建其他语言版本，并增加更多音游下载，如果你想帮助我们，请[提出 Issue](https://github.com/MBRjun/RhyDown/issues)  
+[赞助本站（WeChat)](https://blog.mbrjun.cn/pay)
 # Arcaea
 [点击转到 Arcaea 页面](/down/Arcaea.md)  
 # Phigros  
