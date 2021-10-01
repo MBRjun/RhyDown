@@ -1,8 +1,9 @@
 # Arcaea    
 上次更新：2021/9/29  
+本站与 lowiro 无关，仅提供音游下载（包括部分历史版本）  
 说明：**请选择需要的版本，Global版需要能使用Google服务，同一个版本可能会提供多个下载链接，选择速度快的。**  
-**Global的Offical版需要root或者自己合并才能安装，如无root可尝试修改合并版（非Offical都是）**  
-**建议使用 OneDrive 源**  
+**Global Offical需要root或者合并才能安装，无root可尝试合并版（非Offical都是）**  
+建议使用 **OneDrive** 源  
 **China 即为版本带C后缀的版本 Global 版本号不带后缀**
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
