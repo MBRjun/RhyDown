@@ -16,6 +16,8 @@ Rhythm Games Download
 [点击转到 PJSK 页面](/down/PJSK.md)  
 # OSU!
 [点击转到 OSU! 页面](/down/osu.md)  
+# D4DJ Groovy Mix
+即将添加，敬请期待  
 # 友情链接
 [MBRjun's Blog](https://blog.mbrjun.cn)  [宵夜的造梦阁](https://itqcxy.cn)  
 # 制作组  
