@@ -4,7 +4,7 @@ Rhythm Games Download
 本网站是一个公益音游下载站，**提供 Arcaea 等游戏的下载**，如果你有能力，可以**把这个下载站分享给更多人**。  
 我们正在为为本站创建其他语言版本，并增加更多音游下载，如果你想帮助我们收录更多，请[提出 Issue](https://github.com/MBRjun/RhyDown/issues)  
 我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
-[赞助本站（WeChat)](https://blog.mbrjun.cn/pay)
+[赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)
 # Arcaea
 [点击转到 Arcaea 页面](/down/Arcaea.md)  
 # Phigros  
