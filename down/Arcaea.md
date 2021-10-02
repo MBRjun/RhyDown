@@ -19,7 +19,7 @@ China 版本带C后缀如"3.5.3c" Global 版本号不带后缀如"3.8.6"
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
-|3.5.3|China|Offical|.apk|Lytsu/美西 Linode 节点|[点击下载](https://liusw.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
+|3.5.3|China|Offical|.apk|（？）|（？）||--MiB|Apr 1,2021 
 
 ## 历史版本
 
