@@ -26,4 +26,5 @@ Rhythm Games Download
 # 制作组  
 @MBRjun [Bilibili](https://space.bilibili.com/411515003) [Telegram](https://t.me/MBRjun)  
 @QCXES  
+如果你遇到了问题 联系MBRjun  
 
