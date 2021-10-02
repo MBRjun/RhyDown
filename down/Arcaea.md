@@ -26,8 +26,6 @@ China 版本带C后缀如"3.5.3c" Global 版本号不带后缀如"3.8.6"
 |3.5.3|China|Offical|.apk|Lytsu/美西 Linode 节点|[点击下载](https://liusw.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
 |||||Lytsu/东京 Linode 节点|[点击下载](https://litokyo.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
 |||||Lytsu/东京 BGP 节点|[点击下载](https://jp.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
-|||||[616.sb](https://616.sb)/霧の湖镇江电信直链|[点击下载](https://nat-zjct.minasan.xyz:37049/arcaea/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
-||Global|Offical|.apk|[616.sb](https://616.sb)/霧の湖镇江电信直链|[点击下载](https://nat-zjct.minasan.xyz:37049/arcaea/arcaea_3.5.3.apk)||--MiB|Apr 1,2021 
 
 ## 历史版本
 
@@ -39,5 +37,3 @@ China 版本带C后缀如"3.5.3c" Global 版本号不带后缀如"3.8.6"
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.4/Arcaea_3.8.4_rebuild.apk)||591MiB| 
 ||China|Offical|.apk|MBRjun/NAS 天津|[点击下载](http://router.mbrjun.com:30090/#s/7ZvvB08Q)||594MiB|  
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.4c/arcaea_3.8.4c.apk)||594MiB| 
-|3.8.2|China|Offical|.apk|[616.sb](https://616.sb)/霧の湖镇江电信直链|[点击下载](https://nat-zjct.minasan.xyz:37049/arcaea/arcaea_3.5.2c.apk)||--MiB|  
-|3.7.0|China|Offical|.apk|[616.sb](https://616.sb)/霧の湖镇江电信直链|[点击下载](https://nat-zjct.minasan.xyz:37049/arcaea/arcaea_3.7.0c.apk)||--MiB|  
