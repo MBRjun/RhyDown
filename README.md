@@ -16,7 +16,7 @@ Rhythm Games Download
 # BanG Dream! Girls Band Party!  
 即将添加，敬请期待
 # PJSK / 世界计划 彩色舞台 feat. 初音未来
-[点击转到 PJSK 页面](/down/PJSK.md)  
+即将添加，敬请期待  
 # OSU!
 [点击转到 OSU! 页面](/down/osu.md)  
 # D4DJ Groovy Mix
