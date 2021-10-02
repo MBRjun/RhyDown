@@ -14,7 +14,7 @@ Rhythm Games Download
 # Malody  
 [点击转到 Malody 页面](/down/Malody.md)
 # BanG Dream! Girls Band Party!  
-[点击转到 BanG Dream! 页面](/down/Bang.md)  
+即将添加，敬请期待
 # PJSK / 世界计划 彩色舞台 feat. 初音未来
 [点击转到 PJSK 页面](/down/PJSK.md)  
 # OSU!
