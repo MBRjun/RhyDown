@@ -15,17 +15,12 @@ China 版本带C后缀如"3.5.3c" Global 版本号不带后缀如"3.8.6"
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6_rebuild.apk)||593MiB|Sep 29,2021 
 ||China|Offical|.apk|MBRjun/NAS 天津|[点击下载](http://router.mbrjun.com:30090/#s/7Z62XgTQ)||596MiB|Sep 29,2021  
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
-|||||Lytsu/美西 Linode 节点|[点击下载](https://liusw.rytsu.org/arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
-|||||Lytsu/东京 Linode 节点|[点击下载](https://litokyo.rytsu.org/arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
-|||||Lytsu/东京 BGP 节点|[点击下载](https://jp.rytsu.org/arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
 
 ## 愚人节版本
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
 |3.5.3|China|Offical|.apk|Lytsu/美西 Linode 节点|[点击下载](https://liusw.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
-|||||Lytsu/东京 Linode 节点|[点击下载](https://litokyo.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
-|||||Lytsu/东京 BGP 节点|[点击下载](https://jp.rytsu.org/arcaea_3.5.3c.apk)||--MiB|Apr 1,2021 
 
 ## 历史版本
 
