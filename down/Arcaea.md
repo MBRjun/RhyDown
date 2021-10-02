@@ -12,7 +12,7 @@ China 版本带C后缀如"3.5.3c" Global 版本号不带后缀如"3.8.6"
 |3.8.6|Global|Offical|.apks|MBRjun/NAS 天津|[点击下载](http://router.mbrjun.com:30090/#s/7Z64jVIQ)||572MiB|Sep 29,2021  
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6.apks)||572MiB|Sep 29,2021
 |||||MBRjun/TCHK 1|准备中||572MiB|Sep 29,2021 
-||China|Offical|.apk|MBRjun/NAS 天津|[点击下载](http://router.mbrjun.com:30090/#s/7Z62XgTQ)||596MiB|Sep 29,2021  
+||China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.8.6c.apk)||596MiB|Sep 29,2021  
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.6/Arcaea_3.8.6c.apk)||596MiB|Sep 29,2021 
 
 ## 愚人节版本
