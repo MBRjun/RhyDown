@@ -6,6 +6,7 @@ Rhythm Games Download
 我们正在为为本站创建其他语言版本，并增加更多音游下载，如果你想帮助我们收录更多，请[提出 Issue](https://github.com/MBRjun/RhyDown/issues)  
 我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
 [赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)
+正在准备全面换用 CDN 源  
 # Arcaea
 [点击转到 Arcaea 页面](/down/Arcaea.md)  
 # Phigros  
