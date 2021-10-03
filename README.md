@@ -24,7 +24,6 @@ Rhythm Games Download
 # 友情链接
 [MBRjun's Blog](https://blog.mbrjun.cn)  [宵夜的造梦阁](https://itqcxy.cn)  
 # 制作组  
-@MBRjun [Bilibili](https://space.bilibili.com/411515003) [Telegram](https://t.me/MBRjun)  
-@QCXES  
+@MBRjun [Bilibili](https://space.bilibili.com/411515003) [Telegram](https://t.me/MBRjun)    
 如果你遇到了问题 联系MBRjun  
 
