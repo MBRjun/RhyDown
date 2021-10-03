@@ -5,8 +5,8 @@ Rhythm Games Download
 本站主要用于学习研究，不得用于任何商业行为，否则后果自负，这不是强制要求，只是一个提醒与警告。  
 我们正在为为本站创建其他语言版本，并增加更多音游下载，如果你想帮助我们收录更多，请[提出 Issue](https://github.com/MBRjun/RhyDown/issues)  
 我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
-[赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)
-正在准备全面换用 CDN 源  
+[赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)  
+正在准备全面换用 CDN 源，目前限速 114514KB/s [点击查看](https://cos.mbrjun.cn/rhy/sp_1.png)  
 # Arcaea
 [点击转到 Arcaea 页面](/down/Arcaea.md)  
 # Phigros  
@@ -17,7 +17,7 @@ Rhythm Games Download
 # BanG Dream! Girls Band Party!  
 即将添加，敬请期待
 # PJSK / 世界计划 彩色舞台 feat. 初音未来
-即将添加，敬请期待  
+[点击转到 PJSK 页面](/down/PJSK.md)  
 # OSU!
 [点击转到 OSU! 页面](/down/osu.md)  
 # D4DJ Groovy Mix
