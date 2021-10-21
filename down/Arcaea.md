@@ -8,7 +8,7 @@ Arcaea官网： https://arcaea.lowiro.com
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
 |3.8.8|China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.8.8c.apk)||597MiB|Oct 21,2021  
-|||||MBRjun/OneDrive 境外|[未就緒](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.8/arcaea_3.8.8c.apk)||597MiB|Oct 21,2021 
+|||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.8/arcaea_3.8.8c.apk)||597MiB|Oct 21,2021 
 
 ## 愚人节版本
 
