@@ -12,7 +12,7 @@ Rhythm Games Download
 [查看更多版本和地址](/down/Arcaea.md)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
-[点击转到 Phigros 页面(**仅提供愚人节版本**)](/down/Phigros.md)  
+[点击从本站下载 APK](/down/Phigros.md)  
 # Malody  
 [点击转到 Malody 页面](/down/Malody.md)
 # BanG Dream! Girls Band Party!  
