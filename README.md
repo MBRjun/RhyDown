@@ -8,8 +8,7 @@ Rhythm Games Download
 [赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)  
 正在准备全面换用 CDN 源，目前限速 114514KB/s [点击查看](https://cos.mbrjun.cn/rhy/sp_1.png)  
 # Arcaea
-3.8.9c 将于 11日 晚上加入下载站  
-[点击下载版本（3.8.8c）](https://cos.mbrjun.cn/rhy/arc/arcaea_3.8.8c.apk)  
+[点击下载版本（3.9.0c）](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.0c.apk)  
 [查看更多版本和地址](/down/Arcaea.md)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
