@@ -6,9 +6,9 @@ Rhythm Games Download
 我们正在为为本站创建其他语言版本，并增加更多音游下载，如果你想帮助我们收录更多，请[提出 Issue](https://github.com/MBRjun/RhyDown/issues)  
 我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
 [赞助本站（WeChat)](https://blog.mbrjun.cn/pay) [统计数据](/down/dl.md)  
-正在准备全面换用 CDN 源，目前限速 114514KB/s [点击查看](https://cos.mbrjun.cn/rhy/sp_1.png)  
+全面换用 CDN 源，速度可达 114514KB/s [点击查看](https://cos.mbrjun.cn/rhy/sp_1.png)  
 # Arcaea
-[点击下载版本（3.9.0c）](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.0c.apk)  
+[点击下载版本（3.9.1c）](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.1c.apk)  
 [查看更多版本和地址](/down/Arcaea.md)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
