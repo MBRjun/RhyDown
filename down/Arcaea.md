@@ -1,5 +1,5 @@
 # Arcaea    
-上次更新：2021/11/10  
+上次更新：2021/11/12  
 本站与 lowiro limited 无关，仅提供音游下载（包括部分历史版本）  
 Arcaea官网： https://arcaea.lowiro.com  
 
@@ -7,7 +7,7 @@ Arcaea官网： https://arcaea.lowiro.com
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
-|3.9.0|China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.0c.apk)||604MiB|Nov 11,2021
+|3.9.1|China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.1c.apk)||604MiB|Nov 11,2021
 
 ## 愚人节版本
 
@@ -19,6 +19,7 @@ Arcaea官网： https://arcaea.lowiro.com
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
+|3.9.0|China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.9.0c.apk)||604MiB|Nov 11,2021
 |3.8.8|China|Offical|.apk|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/arcaea_3.8.8c.apk)||597MiB|Oct 21,2021  
 |||||MBRjun/OneDrive 境外|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.8.8/arcaea_3.8.8c.apk)||597MiB|Oct 21,2021 
 |3.8.6|Global|Offical|.apks|MBRjun/CN CDN|[点击下载](https://cos.mbrjun.cn/rhy/arc/Arcaea_3.8.6.apks)||572MiB|Sep 29,2021  
