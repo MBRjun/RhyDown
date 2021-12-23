@@ -1,5 +1,5 @@
 # Arcaea    
-上次更新：2021/12/9  
+上次更新：2021/12/24  
 本站与 lowiro limited 无关，仅提供音游下载（包括部分历史版本）  
 Arcaea官网： https://arcaea.lowiro.com  
 
