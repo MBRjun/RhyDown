@@ -6,7 +6,7 @@ Rhythm Games Download
 我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
 [赞助本站（WeChat)](https://blog.mbrjun.cn/pay)  
 # Arcaea
-[点击下载最新版本（3.11.0c）](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.11/arcaea_3.11.0c.apk)  
+[点击下载最新版本（3.11.2c）](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.11/arcaea_3.11.2c.apk)  
 [查看更多版本和地址](/down/Arcaea.md)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
