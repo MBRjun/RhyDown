@@ -1,10 +1,7 @@
 # RhyDown
 Rhythm Games Download  
 项目地址：[MBRjun/RhyDown](https://github.com/MBRjun/RhyDown/)  
-本网站是一个公益音游下载站，**提供 Arcaea 等游戏的下载**，如果你有能力，可以**把这个下载站分享给更多人**。  
-有什么意见或者建议，[提出 Issue](https://github.com/MBRjun/RhyDown/issues)吧！  
-我们正在收集玩家的意见，请查看[调查问卷](https://forms.office.com/r/6qpHUuK8TE)  
-[赞助本站（WeChat)](https://blog.mbrjun.cn/pay)  
+本网站是一个公益音游下载站，**提供 Arcaea 等游戏的下载**    
 # Arcaea
 [点击下载最新版本（3.11.2c）](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.11/arcaea_3.11.2c.apk)  
 [查看更多版本和地址](/down/Arcaea.md)  
@@ -25,5 +22,4 @@ Rhythm Games Download
 [MBRjun's Blog](https://blog.mbrjun.cn)  [宵夜的造梦阁](https://itqcxy.cn)  
 # 制作组  
 @MBRjun [Bilibili](https://space.bilibili.com/411515003) [Telegram](https://t.me/MBRjun)    
-如果你遇到了问题 联系MBRjun  
 
