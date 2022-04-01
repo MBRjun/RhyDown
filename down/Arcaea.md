@@ -7,18 +7,19 @@ Arcaea官网： https://arcaea.lowiro.com
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
-|3.12.4|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.4c.apk)||741MiB|Mar 23,2022
+|3.12.6|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.6c.apk)||767MiB|Apr 1,2022
 
 ## 愚人节版本
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
-|3.5.3|China|Offical|.apk|（？）|（？）||--MiB|Apr 1,2021 
+|3.12.6|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.6c.apk)||767MiB|Apr 1,2022
 
 ## 历史版本
 
 |  版本   | 区域  | 修改  | 格式  | 提供者  | 链接  | 密码  | 粗略文件体积  | 日期  |  
 |  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |  
+|3.12.4|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.4c.apk)||741MiB|Mar 23,2022
 |3.12.3|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.3c.apk)||741MiB|Mar 14,2022
 |3.12.2|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.2c.apk)||741MiB|Mar 09,2022
 |3.12.0|China|Offical|.apk|MBRjun/OneDrive|[点击下载](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.0c.apk)||725MiB|Feb 17,2022
