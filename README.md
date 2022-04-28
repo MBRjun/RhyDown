@@ -3,8 +3,8 @@ Rhythm Games Download
 项目地址：[MBRjun/RhyDown](https://github.com/MBRjun/RhyDown/)  
 本网站是一个公益音游下载站，**提供 Arcaea 等游戏的下载**    
 # Arcaea
-**[点击下载最新版本（3.12.6c）](https://download.mbrjun.cn/%E9%9F%B3%E6%B8%B8/Arcaea/3.12/arcaea_3.12.6c.apk)**  
-[查看更多版本和地址](/down/Arcaea.md)  
+**[点击下载最新版本（3.12.8c）](https://download.mbrjun.cn/tree/Arcaea/3.12/arcaea_3.12.8c.apk)**  
+[其他版本](https://download.mbrjun.cn/tree/Arcaea/)  
 # Phigros  
 [点击转到 TapTap 上的 Phigros](https://www.taptap.com/app/165287)  
 [点击从本站下载 APK](/down/Phigros.md)  
